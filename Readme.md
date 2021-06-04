@@ -1,4 +1,4 @@
-# Auto.js
+# Auto.js 1
 
 [中文Readme](https://github.com/hyb1996/Auto.js/blob/master/Readme-cn.md)
 
